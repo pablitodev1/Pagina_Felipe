@@ -149,3 +149,11 @@ footer {
     padding-bottom: 50px;
     text-align: center;
 }
+
+@media only screen and (max-width: 750px) {
+
+.work-container {
+    flex-direction: column;
+}
+
+}
